@@ -1,6 +1,7 @@
+"use strict"
 import React , {useState} from 'react';
 import logo from '../../assets/avataaars.svg'
-import '.././Line/Line'
+import Line from '.././Line/Line'
 
 export default function Home() {
     return (

@@ -1,3 +1,4 @@
+"use strict"
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'

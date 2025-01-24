@@ -1,9 +1,10 @@
+"use strict"
+
 import React , {useState} from 'react';
-import Line from '../line/line';
 import port1 from '../../assets/port1.png'
 import port2 from '../../assets/port2.png'
 import port3 from '../../assets/port3.png'
-import Card from '../Card/Card';
+import Card from '.././Card/Card';
 
 export default function Portfolio() {
     let images =[{

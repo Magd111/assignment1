@@ -1,6 +1,6 @@
+"use strict"
 import React , {useState} from 'react';
-import Line from '../line/line';
-
+import Line from '.././Line/Line';
 export default function About() {
     return (
         <>
